@@ -1,5 +1,3 @@
-# ML Journey
-
 # Machine Learning Journey
 
 This repository documents my structured journey into Machine Learning, focusing on strong fundamentals, clean implementations, and practical understanding.
